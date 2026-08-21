@@ -1,7 +1,0 @@
-name: invisible-units
-displayName: "Invisible units"
-author: Aewsomn
-description: "Toggle the Mono, Poly, and Mega unit sprites fully invisible, including their wings and visual parts, while keeping the units functional."
-version: "1.0"
-minGameVersion: "159.7"
-hidden: false

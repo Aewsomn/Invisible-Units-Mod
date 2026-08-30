@@ -16,9 +16,6 @@ wings are part of the main body art, so hiding the body hides them too.
 2. Select `invisible-units.zip` (no need to unzip it first).
 3. Restart Mindustry when prompted.
 
-**Discord:** just drag `invisible-units.zip` into a channel — anyone who
-downloads it can import it the same way above.
-
 ## Usage
 
 Go to **Settings → Invisible Units** and flip the checkbox. It applies

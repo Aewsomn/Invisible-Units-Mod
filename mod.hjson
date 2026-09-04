@@ -1,7 +1,0 @@
-name: invisible-units
-displayName: Invisible Units
-author: Aewsomn
-description: "Makes Mono, Poly, and Mega fully transparent - bodies, cells, outlines, shadows and wings included. Adds an 'Invisible Units' category to the game's Settings menu with a toggle to flip them between normal and completely invisible at any time, no restart needed."
-version: 1.0
-minGameVersion: 159
-hidden: true

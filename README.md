@@ -18,8 +18,6 @@ so there's no leftover solid "wing" left behind either.
 2. Select `transparent-support-units.zip` (no need to unzip it first).
 3. Restart Mindustry when prompted.
 
-**Discord:** just drag `transparent-support-units.zip` into a channel —
-anyone who downloads it can import it the same way above.
 
 ## Usage
 

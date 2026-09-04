@@ -1,0 +1,7 @@
+name: transparent-support-units
+displayName: Transparent Support Units
+author: Aewsomn
+description: "Turns Mono, Poly, Mega, Quad, and Oct into mostly-transparent 'ghosts' with a visible team-colored outline, instead of hiding them completely. Toggle it from Settings > Transparent Support Units, or press F9 (rebindable in Settings > Controls) to flip it on/off instantly, no restart needed."
+version: 2.0
+minGameVersion: 159
+hidden: true
